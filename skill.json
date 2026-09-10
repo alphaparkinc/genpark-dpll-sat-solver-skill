@@ -1,0 +1,14 @@
+{
+  "name": "genpark-dpll-sat-solver-skill",
+  "version": "1.0.0",
+  "description": "Davis-Putnam-Logemann-Loveland (DPLL) Boolean satisfiability solver with unit propagation and recursive backtracking.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "dpll",
+    "sat-solver",
+    "formal-methods",
+    "automated-reasoning",
+    "boolean-logic"
+  ]
+}
